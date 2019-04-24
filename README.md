@@ -1,2 +1,2 @@
 # TheSeaCleaner
-An independent game
+An independent game for the competition
